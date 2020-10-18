@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hello, 👋
 
-<!--
-**vinosamari/vinosamari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Sapwavino Samari  
 
-Here are some ideas to get you started:
+### FullStack WebDev {Django Stack} | Sound Engineer.
+---
+- 🔭 I’m currently working on a project with TheMbari Dev Team and  an interactive site for musicians to collaborate.
+---
+- 🌱 I’m currently learning React.
+---
+- 👯 I’m looking to collaborate on more website projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+- 🤔 I’m looking for help with nodeJS.
+---
+- 💬 Ask me about Python,Django,WebDev,Music Production,Sound Engineering.
+---
+- 📫 How to reach me: [sapwavino.samari@gmail.com](url).
+---
+- 😄 Pronouns: He/Him.
+---
