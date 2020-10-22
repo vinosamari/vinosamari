@@ -1,18 +1,19 @@
-# Hello, 👋
+# Hello👋
 
-## I'm Sapwavino Samari  
+## I'm Sapwavino Samari.  
 
-### FullStack WebDev {Django Stack} | Sound Engineer.
+### Web Developer | Sound Engineer | Mixtrovert
 
-<img src="https://github-readme-stats.vercel.app/api?username=vinosamari&show_icons=true&theme=synthwave">
+<img src="https://github-readme-stats.vercel.app/api?username=vinosamari&show_icons=true&theme=synthwave"> 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinosamari">
 
 ---
-- 🔭 I’m currently working on a project with TheMbari Dev Team and  an interactive site for musicians to collaborate.
+- 🔭 Currently working on a project with TheMbari Dev Team and  an interactive site for musicians to collaborate.
 ---
-- 🌱 I’m currently learning React.
+- 🌱 Just started learning React and jQuery.
 ---
-- 👯 I’m looking to collaborate on more website projects.
-
+- 👯 I’m looking to collaborate on more website/webapp projects {Private & Open-Source} 
 ---
 - 🤔 I’m looking for help with nodeJS.
 ---
