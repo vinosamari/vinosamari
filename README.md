@@ -3,6 +3,8 @@
 ## I'm Sapwavino Samari  
 
 ### FullStack WebDev {Django Stack} | Sound Engineer.
+
+<img src="https://github-readme-stats.vercel.app/api?username=vinosamari&show_icons=true&theme=synthwave">
 ---
 - 🔭 I’m currently working on a project with TheMbari Dev Team and  an interactive site for musicians to collaborate.
 ---
