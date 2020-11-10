@@ -2,7 +2,7 @@
 
 ## I'm Sapwavino Samari.  
 
-### Web Developer | Sound Engineer | ExtIntrovert
+### Web Developer | Sound Engineer | Human Being
 
 <img src="https://github-readme-stats.vercel.app/api?username=vinosamari&show_icons=true&theme=synthwave"> 
 
