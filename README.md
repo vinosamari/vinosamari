@@ -1,4 +1,4 @@
-# Hello👋
+# Hello
 
 ## I'm Sapwavino Samari.  
 
