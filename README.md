@@ -16,6 +16,6 @@
 - 👯 I’m looking to collaborate with more developers on website/webapp projects {Private & Open-Source}, Python & Javascript projects {Automation, ML/AI, Desktop/Mobile/Web App Dev}.
 --
 ---
-- 💬 Ask me about Python, Django, WebDev, Music Production, Sound Engineering and any other topics you're interested in.
+- 💬 Ask me about Python, Django, WebDev / Design, Music Production, Sound Engineering and any other topics you're interested in.
 ---
 - 📫 You can reach me: [sapwavino.samari@gmail.com](url).
