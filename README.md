@@ -4,7 +4,7 @@
 
 ### Web Developer | Sound Engineer | Human Being
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=vinosamari&show_icons=true&theme=gradient)
+![My github stats](https://github-readme-stats.vercel.app/api?username=vinosamari&show_icons=true&theme=onedark)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinosamari">
 
