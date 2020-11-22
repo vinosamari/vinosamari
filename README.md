@@ -6,7 +6,7 @@
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=vinosamari&show_icons=true&theme=onedark)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinosamari">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinosamari&layout=compact">
 
 ---
 - 🔭 Currently working on a project with The Mbari Web Dev Team and a few other side projects i'll be showcasing soon.
