@@ -4,7 +4,7 @@
 
 ### Web Developer | Sound Engineer | Human Being
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![My github stats](https://github-readme-stats.vercel.app/api?username=vinosamari&show_icons=true&theme=gradient)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinosamari">
 
