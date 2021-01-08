@@ -4,6 +4,8 @@
 
 ### Developer 
 
+
+<img src="https://github-readme-stats.vercel.app/api?username=vinosamari&show_icons=true&theme=synthwave">
 ---
 - 🔭 Currently working with The Mbari Web Dev Team, Slate.ng and a few other side projects i'll be showcasing soon.
 ---
