@@ -1,8 +1,8 @@
 # Hey There! 👋🏾
 
-## My Name Is Sapwavino Samari | Javascript & Python Web Developer | AudioHead.  
+## I'm Sapwavino Samari | A Javascript & Python Web Developer | An AudioHead.  
  
-### 🛠 Weapons of choice: Vuejs, Nuxtjs, Strapi, MongoDB and Django.
+### 🛠 Weapons of choice: Vuejs, Nuxtjs, Django, Firebase and Strapi.
 ### 🎓 Currently learning Ionic and Typescript.
 ### 👍🏾 Open to collaborations, project-based learning and programming music.
 
