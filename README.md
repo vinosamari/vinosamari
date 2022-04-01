@@ -1,7 +1,7 @@
 # Hey There! 👋🏾
 
 ## I'm Sapwavino Samari
-## A Human Being | A Web Developer | An Audio Enthusiast 
+## Human Being | Web Developer | Audio Enthusiast 
  
 ### 🛠 Weapons of choice: Vuejs, Nuxtjs, Nodejs, Firebase and Strapi.
 ### 🎓 Currently learning Solidity & Blockchain Development.
