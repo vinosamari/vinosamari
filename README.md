@@ -13,6 +13,6 @@
 
 ### :fire: My Stats :
 <!-- <div align="center"> -->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alb1nut&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vinosamari&theme=dark&background=000000)](https://git.io/streak-stats)
 <!-- </div> -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alb1nut&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinosamari&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
