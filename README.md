@@ -5,8 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=37ABE6&width=435&lines=Web+Developer+👨🏾‍💻;Audio+Enthusiast+🎧;Dog+Lover+🐕)](https://git.io/typing-svg)
 
 ### 🛠 Weapons of choice: Vue.js(Nuxt), Node, & Python.
-### 🎓 Currently learning Docker🐳 & AI🤖.
-### 👍🏾 Open to collaborations, project-based learning, teaching and programming music.
+### 🎓 Currently learning: Docker 🐳 & Artificial Intelligence 🤖.
+### 👍🏾 Open to: open-source collaborations, project-based learning, teaching and programming music.
 
 ### :fire: My Stats :
 
