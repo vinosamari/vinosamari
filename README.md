@@ -8,9 +8,10 @@
 ### 🎓 Currently learning: Docker 🐳 & Natural Language Processing(NLP) 🤖.
 ### 👍🏾 Open to: open-source collaborations, project-based learning, teaching and programming music.
 
+```
 "AI will amplify human potential, not diminish it."
              - Satya Nadella
-
+```
 
 ### :fire: My Stats :
 
