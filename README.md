@@ -5,13 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=37ABE6&width=435&lines=Web+Developer+👨🏾‍💻;Audio+Mangler+🎧;Dog+Lover+🐕)](https://git.io/typing-svg)
 
 ### 🛠 Weapons of choice: Vue.js(Nuxt), Node, & Python.
-### 🎓 Currently learning: Docker 🐳 & Natural Language Processing(NLP) 🤖.
+### 🎓 Currently learning: Docker 🐳, Prompt Engineering ⚙️ & Natural Language Processing(NLP) 🤖.
 ### 👍🏾 Open to: open-source collaborations, project-based learning, teaching and programming music.
-
-```
-"AI will amplify human potential, not diminish it."
-             - Satya Nadella
-```
 
 ### :fire: My Stats :
 
@@ -21,5 +16,9 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=vinosamari&show_icons=true&include_all_commits=true&theme=onedark" alt="Vino's github stats" />
 </a>
 <br/>
-<!-- TROPHIES -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=vinosamari&row=2&column=6&theme=onedark&column=8&no-frame=false&no-bg=false)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+```
+"AI will amplify human potential, not diminish it."
+             - Satya Nadella
+```
