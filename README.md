@@ -19,6 +19,6 @@
 
 
 ```
-"AI will amplify human potential, not diminish it."
-             - Satya Nadella
+"There's no cloud. Just someone else's computer."
+             - A developer
 ```
