@@ -18,7 +18,11 @@
 <br/>
 
 
+<center>
+  
 ```
-"There's no cloud. Just someone else's computer."
-             - A developer
+                                  "I've got 99 problems, and they're all merge conflicts."
+                                               - A developer
 ```
+
+</center>
