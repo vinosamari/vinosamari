@@ -7,7 +7,7 @@
 ### 🛠 Weapons of choice: Python, Vue.js(Nuxt), & Node.
 ### 🎓 Currently exploring: Machine Learning ⚙️ & Natural Language Processing(NLP) 🤖.
 
-### :fire: My Stats :
+### :fire: Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vinosamari&theme=transparent&background=000000&stars=false)](https://git.io/streak-stats)
 <br/>
@@ -20,7 +20,7 @@
 <center>
   
 ```
-                                  "I've got 99 problems, and they're all merge conflicts."
+"I've got 99 problems, and they're all merge conflicts."
                                                - A developer
 ```
 
