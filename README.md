@@ -21,7 +21,6 @@
   
 ```
 "I've got 99 problems, and they're all merge conflicts."
-                                               - A developer
 ```
 
 </center>
